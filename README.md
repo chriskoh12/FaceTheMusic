@@ -1,2 +1,3 @@
 # FaceTheMusic
-Fred Harris Fan Club's interesting attempt at using machine learning to build an app. Built for the 2018 Reno Hackathon.
+Fred Harris Fan Club's attempt at using Microsoft Azure's Cognitive Services to build a recognize emotions in a picture and play a corresponding song.
+
