@@ -1,2 +1,2 @@
 # FaceTheMusic
-An app that links facial expressions to songs. Hacked together for the 5th annual Reno hackathon.
+Fred Harris Fan Club's interesting attempt at using machine learning to build an app. Built for the 2018 Reno Hackathon.
